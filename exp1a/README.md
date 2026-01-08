@@ -28,7 +28,7 @@ System.out.println("bool:"+obj.bool);
 
 ## output:
 
-![the default values of all the DataTypes](1aoutput.png)
+![the default values of all the DataTypes](exp1aoutput.png)
 
 
 # experiment 1b
@@ -83,4 +83,4 @@ import java.util.Scanner;
 
 ```
 ## output:
-![Nature of all the root types](exp_1boutput.png)
+![Nature of all the root types](exp1boutput.png)
