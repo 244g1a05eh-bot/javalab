@@ -24,7 +24,7 @@ class MyClass {
 }
 ```
 ## output
-![The output of 2a is](2a_Output.png)
+![The output of 2a is](2a_0utput.png)
 
 # experiment 2b
 ## AIM: To implement method overloading 
