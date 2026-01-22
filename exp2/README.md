@@ -24,7 +24,7 @@ class MyClass {
 }
 ```
 ## output
-![The output of 2a is](2aoutput.png)
+![The output of 2a is](2a_output.png)
 
 # experiment 2b
 ## AIM: To implement method overloading 
@@ -54,7 +54,7 @@ class OverloadExample {
 }
 ```
 ## output 
-![the ouput is](2boutput.png)
+![the ouput is](2b_output.png)
 
 # experiment 2C
 ## AIM: to implement constructor
@@ -85,4 +85,4 @@ class Student {
 }
 ```
 # output
-![the output is](2coutput.png)
+![the output is](2c_output.png)
