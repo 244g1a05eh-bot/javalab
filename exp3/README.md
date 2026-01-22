@@ -49,7 +49,7 @@ class Student {
 }
 ```
 ## output:
-![the output is](3aoutput.png)
+![the output is](3a_output.png)
 
 # Experiment 3b
 ## AIM: Binary Search mechanism in java
@@ -117,7 +117,7 @@ class BinarySearchDemo {
 }
 ```
 ## output:
-![the output is](3boutput.png)
+![the output is](3b_output.png)
 
 # experiment 3c
 ## AIM: Bubble Sort mechanism in java
@@ -155,4 +155,4 @@ class BubbleSort {
 }
 ```
 ## output:
-![the output is](3coutput.png)
+![the output is](3c_output.png)
